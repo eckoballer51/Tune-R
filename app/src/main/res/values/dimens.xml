@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_progress">14dp</dimen>
+    <dimen name="ring_thickness">10dp</dimen>
+    <dimen name="diameter_progress">36dp</dimen>
+</resources>

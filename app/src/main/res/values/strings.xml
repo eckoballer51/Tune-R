@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTune-R</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="tuner_title">Tuner</string>
+</resources>
